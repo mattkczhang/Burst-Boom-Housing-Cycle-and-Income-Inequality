@@ -1,4 +1,5 @@
-# Burst-Boom-Housing-Cycle-and-Income-Inequality
+# Burst Boom Housing Cycle and Income Inequality
+
 The Impact of the Dynamic of Housing Market on Income Inequality in the United States is an Econometrics term paper at Macalester College in fall 2020. The term paper is advised by Professor Amy Damon.
 
 ![US-housing-market-crash](https://user-images.githubusercontent.com/94136772/157126455-125b76b5-3350-479f-be65-73560a53f8e0.png)
